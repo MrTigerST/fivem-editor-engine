@@ -1,1 +1,4 @@
-First Release of Software.
+V. 1.0.0.1
+
+
+- Serious bugs fixed.
