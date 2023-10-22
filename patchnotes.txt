@@ -1,4 +1,6 @@
-V. 1.0.0.3
+V. 1.0.0.4
 
 
 - Serious bugs fixed.
+- Added PYIDFEE Reports for all users.
+- Design Fix.
