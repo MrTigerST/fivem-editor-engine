@@ -1,6 +1,6 @@
-V. 1.0.0.6
+V. 1.0.0.7
 
 
-- Design Fix.
+- Various Design Fix
 
-- Bug Fix.
+- Bug fix
