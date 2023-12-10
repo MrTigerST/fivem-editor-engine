@@ -1,6 +1,7 @@
-V. 1.0.0.7
+V. 1.0.0.8
 
 
-- Various Design Fix
-
-- Bug fix
+- Aggiunta la possibilità di vedere i tuoi Token PYIDFEE direttamente nel software, non te lo devi più salvare da qualche parte.
+- Migliorati varie parti di Design.
+- Bug Fix.
+- Aggiunta l'introduzione di Script Help Engine per i nuovi utenti.
