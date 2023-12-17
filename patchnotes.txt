@@ -1,4 +1,6 @@
-V. 1.0.0.9
+V. 1.0.1.0
 
 
-- Importante bug fix.
+- Important bug fix.
+- Changed the Design of Main and Home Page.
+- Increased code character limits in Threads (Script Help Engine) from 8000 to 30,000.
