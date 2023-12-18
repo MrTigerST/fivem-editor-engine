@@ -1,6 +1,6 @@
-V. 1.0.1.0
+V. 1.0.1.1
 
 
-- Important bug fix.
-- Changed the Design of Main and Home Page.
-- Increased code character limits in Threads (Script Help Engine) from 8000 to 30,000.
+- Mini bug fix.
+
+- You can now edit the data of your Thread after its creation, such as title and description.
