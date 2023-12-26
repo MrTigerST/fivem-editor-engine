@@ -1,6 +1,8 @@
-V. 1.0.1.1
+V. 1.0.1.2
 
 
-- Mini bug fix.
+- Bug Fix.
 
-- You can now edit the data of your Thread after its creation, such as title and description.
+- Increased the characters allowed in the Thread Description from 200 to 500.
+
+- Improved the General Design. 
