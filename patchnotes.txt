@@ -1,8 +1,6 @@
-V. 1.0.1.2
+V. 1.0.1.3
 
 
 - Bug Fix.
-
-- Increased the characters allowed in the Thread Description from 200 to 500.
 
 - Improved the General Design. 
