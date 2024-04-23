@@ -1,6 +1,6 @@
-V. 1.0.1.3
+V. 1.0.1.4
 
 
-- Bug Fix.
+- Major Fix.
 
-- Improved the General Design. 
+- Design Fix.
