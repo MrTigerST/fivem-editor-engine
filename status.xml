@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.1.4</version>
+  <version>1.0.1.5</version>
   <url>https://github.com/MrTigerST/fivem-editor-engine/raw/main/fee.zip</url>
   <changelog>https://raw.githubusercontent.com/MrTigerST/fivem-editor-engine/main/patchnotes.txt</changelog>
   <mandatory mode="1">true</mandatory>
